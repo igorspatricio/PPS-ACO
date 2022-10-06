@@ -1,0 +1,252 @@
+{
+"Limits":	[{
+			"Classification":	"CAPEX",
+			"Values":	[1270000, 1990000, 1830000, 1210000, 1700000]
+		}, {
+			"Classification":	"OPEX",
+			"Values":	[1270000, 1720000, 1190000, 1750000, 1400000]
+		}],
+	"Projects":	[{
+			"Id":	1,
+			"Duration":	8,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 2420, 1210, 2420, 1210, 1210, 2420, 1210]
+		}, {
+			"Id":	2,
+			"Duration":	13,
+			"Classification":	"CAPEX",
+			"Maintenance":	"L",
+			"Halting Start Month":	6,
+			"Halting Duration":	7,
+			"Costs":	[2420, 1210, 1210, 2420, 1210, 2420, 1210, 1210, 2420, 1210, 2420, 2420, 1210]
+		}, {
+			"Id":	3,
+			"Duration":	13,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 1210, 1210, 1210, 2420, 1210, 1210, 1210, 1210, 1210, 1210, 2420, 1210]
+		}, {
+			"Id":	4,
+			"Duration":	12,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 1190, 2380, 1190, 1190, 2380, 2380, 2380, 2380, 2380, 2380, 2380]
+		}, {
+			"Id":	5,
+			"Duration":	6,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 1210, 2420, 2420, 1210, 2420]
+		}, {
+			"Id":	6,
+			"Duration":	14,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 1210, 2420, 1210, 1210, 1210, 2420, 2420, 1210, 2420, 2420, 2420, 2420, 2420]
+		}, {
+			"Id":	7,
+			"Duration":	12,			
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 1190, 1190, 1190, 2380, 2380, 2380, 2380, 2380, 2380, 1190]
+		}, {
+			"Id":	8,
+			"Duration":	15,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 2380, 1190, 1190, 1190, 2380, 1190, 1190, 2380, 1190, 2380, 2380, 1190, 2380]
+		}, {
+			"Id":	9,
+			"Duration":	5,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 2380, 1190, 1190]
+		}, {
+			"Id":	10,
+			"Duration":	11,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2420, 1210, 2420, 2420, 2420, 2420, 1210, 2420, 1210, 2420, 1210]
+		}, {
+			"Id":	11,
+			"Duration":	10,
+			"Classification":	"CAPEX",
+			"Maintenance":	"L",
+			"Halting Start Month":	5,
+			"Halting Duration":	2,
+			"Costs":	[2420, 1210, 2420, 1210, 2420, 1210, 1210, 2420, 1210, 1210]
+		}, {
+			"Id":	12,
+			"Duration":	14,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1190, 2380, 1190, 2380, 2380, 1190, 2380, 2380, 2380, 1190, 1190, 2380, 1190, 1190]
+		}, {
+			"Id":	13,
+			"Duration":	9,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 1190, 2380, 2380, 2380, 1190, 2380, 2380, 1190]
+		}, {
+			"Id":	14,
+			"Duration":	7,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 1210, 1210, 1210, 1210, 1210, 1210]
+		}, {
+			"Id":	15,
+			"Duration":	12,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 1190, 2380, 2380, 1190, 1190, 2380, 2380, 1190, 1190, 1190, 1190]
+		}, {
+			"Id":	16,
+			"Duration":	13,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 2380, 2380, 1190, 2380, 1190, 2380, 2380, 2380, 1190, 1190, 1190]
+		}, {
+			"Id":	17,
+			"Duration":	5,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2420, 2420, 1210, 1210, 1210]
+		}, {
+			"Id":	18,
+			"Duration":	7,			
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 2420, 1210, 1210, 1210, 2420, 1210]
+		}, {
+			"Id":	19,
+			"Duration":	15,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 1190, 2380, 2380, 2380, 2380, 2380, 2380, 2380, 2380, 2380, 1190, 2380, 1190, 2380]
+		}, {
+			"Id":	20,
+			"Duration":	9,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 2420, 2420, 2420, 2420, 2420, 1210, 1210, 1210]
+		}, {
+			"Id":	21,
+			"Duration":	5,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1190, 1190, 1190, 1190, 2380]
+		}, {
+			"Id":	22,
+			"Duration":	10,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 1210, 2420, 2420, 2420, 2420, 2420, 1210, 2420, 1210]
+		}, {
+			"Id":	23,
+			"Duration":	7,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 2380, 2380, 2380, 1190, 2380]
+		}, {
+			"Id":	24,
+			"Duration":	10,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 1190, 2380, 1190, 1190, 2380, 2380, 2380, 1190, 1190]
+		}, {
+			"Id":	25,
+			"Duration":	5,
+			"Classification":	"CAPEX",
+			"Maintenance":	"S",
+			"Halting Start Month":	3,
+			"Halting Duration":	2,
+			"Costs":	[1210, 1210, 1210, 2420, 2420]
+		}, {
+			"Id":	26,
+			"Duration":	9,
+			"Classification":	"CAPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1210, 1210, 2420, 2420, 2420, 2420, 1210, 1210, 1210]
+		}, {
+			"Id":	27,
+			"Duration":	9,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 1190, 1190, 2380, 2380, 1190, 2380, 1190]
+		}, {
+			"Id":	28,
+			"Duration":	8,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[1190, 1190, 1190, 1190, 2380, 2380, 1190, 2380]
+		}, {
+			"Id":	29,
+			"Duration":	5,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 1190, 1190, 2380]
+		}, {
+			"Id":	30,
+			"Duration":	14,
+			"Classification":	"OPEX",
+			"Maintenance":	"N",
+			"Halting Start Month":	-1,
+			"Halting Duration":	-1,
+			"Costs":	[2380, 2380, 1190, 1190, 2380, 1190, 1190, 2380, 1190, 2380, 2380, 1190, 1190, 2380]
+		}],
+	"Restriction": [[0,1],[1,0]]
+		
+}

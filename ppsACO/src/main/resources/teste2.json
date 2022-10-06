@@ -1,0 +1,653 @@
+{
+  "Limits": [
+    {
+      "Classification": "CAPEX",
+      "Values": [
+        50000,
+        50000,
+        50000,
+        50000,
+        50000
+      ]
+    },
+    {
+      "Classification": "OPEX",
+      "Values": [
+        50000,
+        50000,
+        50000,
+        50000,
+        50000
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Costs": [
+        1210,
+        2420,
+        1210,
+        2420,
+        1210,
+        1210,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 51,
+      "Duration": 8,
+      "Id": 1,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2420,
+        1210,
+        1210,
+        2420,
+        1210,
+        2420,
+        1210,
+        1210,
+        2420,
+        1210,
+        2420,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": 7,
+      "Risk": 36,
+      "Duration": 13,
+      "Id": 2,
+      "Maintenance": "L",
+      "Halting Start Month": 6
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        1210,
+        1210,
+        2420,
+        1210,
+        1210,
+        1210,
+        1210,
+        1210,
+        1210,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 43,
+      "Duration": 13,
+      "Id": 3,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        1190,
+        2380,
+        1190,
+        1190,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 20,
+      "Duration": 12,
+      "Id": 4,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        2420,
+        2420,
+        1210,
+        2420
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 48,
+      "Duration": 6,
+      "Id": 5,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        2420,
+        1210,
+        1210,
+        1210,
+        2420,
+        2420,
+        1210,
+        2420,
+        2420,
+        2420,
+        2420,
+        2420
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 76,
+      "Duration": 14,
+      "Id": 6,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        1190,
+        1190,
+        1190,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 27,
+      "Duration": 12,
+      "Id": 7,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        2380,
+        1190,
+        1190,
+        1190,
+        2380,
+        1190,
+        1190,
+        2380,
+        1190,
+        2380,
+        2380,
+        1190,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 49,
+      "Duration": 15,
+      "Id": 8,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        2380,
+        1190,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 17,
+      "Duration": 5,
+      "Id": 9,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2420,
+        1210,
+        2420,
+        2420,
+        2420,
+        2420,
+        1210,
+        2420,
+        1210,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 76,
+      "Duration": 11,
+      "Id": 10,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2420,
+        1210,
+        2420,
+        1210,
+        2420,
+        1210,
+        1210,
+        2420,
+        1210,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": 2,
+      "Risk": 12,
+      "Duration": 10,
+      "Id": 11,
+      "Maintenance": "L",
+      "Halting Start Month": 5
+    },
+    {
+      "Costs": [
+        1190,
+        2380,
+        1190,
+        2380,
+        2380,
+        1190,
+        2380,
+        2380,
+        2380,
+        1190,
+        1190,
+        2380,
+        1190,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 43,
+      "Duration": 14,
+      "Id": 12,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        1190,
+        2380,
+        2380,
+        2380,
+        1190,
+        2380,
+        2380,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 82,
+      "Duration": 9,
+      "Id": 13,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        1210,
+        1210,
+        1210,
+        1210,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 29,
+      "Duration": 7,
+      "Id": 14,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        1190,
+        2380,
+        2380,
+        1190,
+        1190,
+        2380,
+        2380,
+        1190,
+        1190,
+        1190,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 98,
+      "Duration": 12,
+      "Id": 15,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        2380,
+        2380,
+        1190,
+        2380,
+        1190,
+        2380,
+        2380,
+        2380,
+        1190,
+        1190,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 32,
+      "Duration": 13,
+      "Id": 16,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2420,
+        2420,
+        1210,
+        1210,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 82,
+      "Duration": 5,
+      "Id": 17,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        2420,
+        1210,
+        1210,
+        1210,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 63,
+      "Duration": 7,
+      "Id": 18,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        1190,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        1190,
+        2380,
+        1190,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 52,
+      "Duration": 15,
+      "Id": 19,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        2420,
+        2420,
+        2420,
+        2420,
+        2420,
+        1210,
+        1210,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 86,
+      "Duration": 9,
+      "Id": 20,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1190,
+        1190,
+        1190,
+        1190,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 14,
+      "Duration": 5,
+      "Id": 21,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        2420,
+        2420,
+        2420,
+        2420,
+        2420,
+        1210,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 63,
+      "Duration": 10,
+      "Id": 22,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        1190,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 47,
+      "Duration": 7,
+      "Id": 23,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        1190,
+        2380,
+        1190,
+        1190,
+        2380,
+        2380,
+        2380,
+        1190,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 88,
+      "Duration": 10,
+      "Id": 24,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        1210,
+        2420,
+        2420
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": 2,
+      "Risk": 92,
+      "Duration": 5,
+      "Id": 25,
+      "Maintenance": "L",
+      "Halting Start Month": 3
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        2420,
+        2420,
+        2420,
+        2420,
+        1210,
+        1210,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 78,
+      "Duration": 9,
+      "Id": 26,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        1190,
+        1190,
+        2380,
+        2380,
+        1190,
+        2380,
+        1190
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 22,
+      "Duration": 9,
+      "Id": 27,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1190,
+        1190,
+        1190,
+        1190,
+        2380,
+        2380,
+        1190,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 44,
+      "Duration": 8,
+      "Id": 28,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        1190,
+        1190,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 36,
+      "Duration": 5,
+      "Id": 29,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        2380,
+        1190,
+        1190,
+        2380,
+        1190,
+        1190,
+        2380,
+        1190,
+        2380,
+        2380,
+        1190,
+        1190,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 12,
+      "Duration": 14,
+      "Id": 30,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    }
+  ],
+  "Restriction": [
+    [0, 1, 1],
+    [1, 0, 1],
+    [1, 1, 0]
+  ]
+}

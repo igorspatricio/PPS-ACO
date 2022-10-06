@@ -1,0 +1,135 @@
+{
+  "Limits": [
+    {
+      "Classification": "CAPEX",
+      "Values": [
+        50000
+      ]
+    },
+    {
+      "Classification": "OPEX",
+      "Values": [
+        1270000
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Costs": [
+        1210,
+        2420,
+        1210,
+        2420,
+        1210,
+        1210,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 51,
+      "Duration": 8,
+      "Id": 1,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2420,
+        1210,
+        1210,
+        2420,
+        1210,
+        2420,
+        1210,
+        1210,
+        2420,
+        1210,
+        2420,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": 7,
+      "Risk": 36,
+      "Duration": 13,
+      "Id": 2,
+      "Maintenance": "L",
+      "Halting Start Month": 6
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        1210,
+        1210,
+        2420,
+        1210,
+        1210,
+        1210,
+        1210,
+        1210,
+        1210,
+        2420,
+        1210
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 43,
+      "Duration": 13,
+      "Id": 3,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        2380,
+        1190,
+        2380,
+        1190,
+        1190,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380
+      ],
+      "Classification": "OPEX",
+      "Halting Duration": -1,
+      "Risk": 20,
+      "Duration": 12,
+      "Id": 4,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    },
+    {
+      "Costs": [
+        1210,
+        1210,
+        2420,
+        2420,
+        1210,
+        2420
+      ],
+      "Classification": "CAPEX",
+      "Halting Duration": -1,
+      "Risk": 48,
+      "Duration": 6,
+      "Id": 5,
+      "Maintenance": "N",
+      "Halting Start Month": -1
+    }
+  ],
+  "Restriction": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}
